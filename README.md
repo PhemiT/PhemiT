@@ -14,6 +14,10 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="350"/>
+</div>
+
 ---
 
 ### :man_technologist: About Me :
@@ -24,7 +28,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 👯 I’m looking to collaborate on Web Applications and Crazy ideas.
 
-- :zap: In my free time, I read, watch and rewatch Netflix Originals and MCU or take a dive in a pool.
+- :zap: In my free time, I read, watch and rewatch Netflix originals/MCU or take a dive in a pool.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/phemi_t) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olubukunmi-olufemi-b7013122b)
 
