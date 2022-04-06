@@ -26,7 +26,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I read, watch and rewatch Netflix Originals and MCU or take a dive in a pool.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/phemi_t) [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/phemi_t) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olubukunmi-olufemi-b7013122b)
 
 ---
 
