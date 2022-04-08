@@ -26,7 +26,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring Full Stack Development with MERN and 3D Web Animations.
 
-- 👯 I’m looking to collaborate on Web Applications and Crazy ideas.
+- 👯 I’m looking to collaborate on Web Applications and Wild ideas.
 
 - :zap: In my free time, I read, watch and rewatch Netflix originals/MCU or take a dive in a pool.
 
