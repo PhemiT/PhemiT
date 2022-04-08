@@ -14,10 +14,6 @@
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="350"/>
-</div>
-
 ---
 
 ### :man_technologist: About Me :
