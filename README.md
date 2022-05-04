@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
 - :telescope: I am presently working on personal projects and actively looking for Jobs and Freelance work.
 
 - :seedling: Exploring Full Stack Development with MERN and 3D Web Animations.
