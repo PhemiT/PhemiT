@@ -9,19 +9,19 @@
   </a>
 </div>
  <h1>
-  hey there
+  hello there
 </h1>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
+I'm Bukunmi. I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
 - :telescope: I am presently working on personal projects and actively looking for Jobs and Freelance work.
 
-- :seedling: Presently learning Mobile Development and 3D Web Animations.
+- :seedling: I'm expanding my knowledge on backend technologies at the moment.
 
-- 👯 I’m looking to collaborate on Web Applications and Wild ideas.
+- 👯 I’m looking to collaborate on intriguing startup projects and intersections between animal-care and tech.
 
 - :zap: In my free time, I read, watch and rewatch Netflix originals/MCU or take a dive in a pool.
 
