@@ -16,7 +16,7 @@
 ---
 
 ### :man_technologist: About Me :
-I'm Bukunmi. I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
+I'm Bukunmi. I am a Full-stack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
 - :telescope: I am presently working on personal projects and open to interesting opportunities.
 
 - :seedling: I'm expanding my knowledge on backend technologies at the moment.
