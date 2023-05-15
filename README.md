@@ -21,9 +21,7 @@ I'm Bukunmi. I am a Full-stack web Developer <img src="https://media.giphy.com/m
 
 - :seedling: I'm expanding my knowledge on backend technologies at the moment.
 
-- 👯 I’m looking to collaborate on intriguing startup projects and intersections between animal-care and tech.
-
-- :zap: In my free time, I read, watch and rewatch Netflix originals/MCU or take a dive in a pool.
+- 👯 I’m looking to collaborate on startup projects.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/phemi_t) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olubukunmi-olufemi-b7013122b)
 
