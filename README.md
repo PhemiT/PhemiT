@@ -44,12 +44,6 @@ I'm Bukunmi. I am a Full-stack web Developer <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhemiT&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=phemit&show_icons=true&count_private=true&layout=compact&theme=shades-of-purple&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
