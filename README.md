@@ -20,9 +20,9 @@ Hello! I'm Bukunmi, a Full-stack Web Developer from Lagos, Nigeria <img src="htt
 
 - 🔭 Currently, I'm working on personal projects and am always on the lookout for intriguing opportunities.
 
-- 🌱 Right now, I'm diving deep into backend technologies, seeking the best tools and practices.
+- 🌱 Right now, I'm diving deep into web3 technologies.
 
-- 🤝 I’m eager to collaborate on startup projects, particularly those that push the boundaries of what's possible on the web.
+- 🤝 I’m eager to collaborate on web3 projects.
 
 
 - :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:phemiwrites@gmail.com)
