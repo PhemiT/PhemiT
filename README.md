@@ -16,13 +16,13 @@
 ---
 
 ### :man_technologist: About Me :
-Hello! I'm Bukunmi, a Full-stack Web Developer from Lagos, Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Hello! I'm Bukunmi, Full-stack software engineer with 4 years of experience across the modern web stack — React/Next.js and Angular on the frontend, Node.js/Express/NestJS on the backend, with PostgreSQL and MongoDB for data. Comfortable owning systems end-to-end, from architecture through deployment. Also experienced in Web3 development, including smart contracts on Sui (Move) and EVM-based tooling. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 Currently, I'm working on personal projects and am always on the lookout for intriguing opportunities.
 
-- 🌱 Right now, I'm diving deep into web3 technologies.
+- 🌱 Right now, I'm diving deep into AI technologies.
 
-- 🤝 I’m eager to collaborate on web3 projects.
+- 🤝 I’m eager to collaborate on mind-breaking projects.
 
 
 - :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:phemiwrites@gmail.com)
